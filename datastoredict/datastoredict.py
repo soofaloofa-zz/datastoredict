@@ -20,7 +20,7 @@ class DatastoreDictAncestorModel(ndb.Model):
         """
         Build a key.
         """
-        key_name = '__%s-%s__' % ('ancestor', child_cls.__name__)
+        key_name = '_%s-%s_' % ('ancestor', child_cls.__name__)
         return ndb.Key(cls, key_name, namespace='')
 
 
