@@ -2,8 +2,8 @@
 datastoredict
 =============
 
-.. image:: https://travis-ci.org/vendasta/datastoredict.svg?branch=master
-    :target: https://travis-ci.org/vendasta/datastoredict
+.. image:: https://travis-ci.org/soofaloofa/datastoredict.svg?branch=master
+    :target: https://travis-ci.org/soofaloofa/datastoredict
 
 Provides a durabledict_ implementation for Google AppEngine -- an in-memory dictionary backed by the AppEngine
 Datastore.
