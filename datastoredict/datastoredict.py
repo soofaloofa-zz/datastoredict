@@ -1,5 +1,5 @@
 """
-Persistent storage of switches.
+A durabledict implementation for AppEngine.
 """
 
 from google.appengine.api import memcache
