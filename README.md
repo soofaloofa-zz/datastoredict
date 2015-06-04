@@ -1,7 +1,5 @@
 # datastoredict
 
-[![Build Status](https://travis-ci.org/soofaloofa/datastoredict.svg)](https://travis-ci.org/soofaloofa/datastoredict)
-
 Provides a [durabledict](https://github.com/disqus/durabledict) implementation
 for Google AppEngine -- an in-memory dictionary backed by the AppEngine
 Datastore.
